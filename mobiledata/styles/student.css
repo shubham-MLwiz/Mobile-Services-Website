@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+   h1{background:#CC0; color:#fff; text-align:center; border:3px solid #F33; font-family:Verdana, Geneva, sans-serif; padding:10px; text-decoration:blink; }
+    p{font-size:18px; background:#FC3; color:#039;
+	 border-width:5px;
+	 border-style:solid; 
+	 border-color:#0F0;
+	 padding:10px;
+	 line-height:30px;
+	 letter-spacing:3px;
+}

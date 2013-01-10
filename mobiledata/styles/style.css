@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-family:Verdana, Geneva, sans-serif; font-size:12px; }
+#main{width:1000px; margin:0 auto;}
+#wrapper{margin:0px; padding:0; box-shadow:0px 0px 20px #666; }
+#header{height:150px; margin:3px; background:url(../images/BANNER.png) no-repeat center}
+#header embed{float:right; margin-top:5px; height:50px; }
+#menu{height:38px;  padding:3px; background:#000}
+#left{width:200px; background:#066; float:left; margin-top:5px;}
+#content{ width:auto; overflow:auto; background:#FFF; margin:3px; border:1px solid #CCC}
+#bottom{height:50px; margin:3px; clear:both; background:#FFC; text-align:center;}
+#footer{height:auto; margin:3px; background:#CCC; text-align:center;}
+#menu1{list-style-type:none; padding:3px; margin:3px;}
+#menu1 li{float:left; padding:5px; }
+#menu1 li a{text-decoration:none; color:#FFF; font-size:16px; font-weight:bold;}
+#menu1 li a:hover{color:#CF3;}
+#menu2{list-style-type:none; padding:0px; margin:3px;}
+#menu2 li{text-align:left; margin:2px; padding:5px; display:block; border-bottom:1px solid #FFF;}
+#menu2 li a{text-decoration:none; color:#FFF; font-size:14px; font-weight:bold;}
+#menu2 li:hover{background:#0FF;}
+#home{margin:2px; background:#69F; color:#006; padding:5px;}
+p{text-align:justify; padding:8px; color:#036;}
+#news{list-style-type:none; margin:2px; padding:2px;}
+#news li{color:#FFF; font-weight:bold; padding:5px;}
+#left h3{margin-top:10px;  background:#FC6; color:#C00; padding:3px;}
+
+#content img,a
+{
+	padding-left:10px;
+}
